@@ -4,43 +4,33 @@
 
 ## Independent flagship repositories
 
-| Repository | Capability | Portfolio status | Hub action |
+| Repository | Capability | Status | Hub action |
 | --- | --- | --- | --- |
-| [enterprise-data-agent](https://github.com/Benjamindaoson/enterprise-data-agent) | Enterprise data analysis Agent, Semantic Layer, governed tools, evidence verification | Flagship | Link only; remain independent |
-| [ai-engineering-project-os](https://github.com/Benjamindaoson/ai-engineering-project-os) | Agent harness for long-horizon repository engineering | Flagship | Link only; remain independent |
-| [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) | Enterprise sales Agent, RAG, workflows, evaluation | Flagship | Link only; remain independent |
+| [enterprise-data-agent](https://github.com/Benjamindaoson/enterprise-data-agent) | Governed business-analysis Agent, Semantic Layer, tools, recovery, and evidence verification | **Flagship** | Link only; remain independent |
+| [ai-engineering-project-os](https://github.com/Benjamindaoson/ai-engineering-project-os) | Long-horizon Agent harness for repository engineering | **Flagship** | Link only; remain independent |
+| [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) | Enterprise sales Agent, RAG, workflows, and evaluation | **Flagship** | Link only; remain independent |
 
-## Public case studies
+## Public case studies and teaching
 
-| Repository | Capability | Current disposition |
+| Repository | Capability | Status |
 | --- | --- | --- |
-| [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) | Approval-gated business action workflow | Keep public as case study |
-| [api-test-platform](https://github.com/Benjamindaoson/api-test-platform) | Agent-assisted API quality and release gate | Cross-list with Engineering Tools Lab |
-| [AIEduRAG](https://github.com/Benjamindaoson/AIEduRAG) | Evidence-grounded AI engineering tutor | Keep public as case study |
-| [haole](https://github.com/Benjamindaoson/haole) | Multi-agent workspace and event runtime | Keep public as case study |
-| [Financial_Asset_QA_System](https://github.com/Benjamindaoson/Financial_Asset_QA_System) | Financial QA workflow with deterministic tools | Keep public as case study |
-| [ai-agent-engineering-lab](https://github.com/Benjamindaoson/ai-agent-engineering-lab) | Agent engineering curriculum and examples | Keep public; label as teaching |
+| [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) | Approval-gated reservation and business-action workflow | **Case Study** |
+| [api-test-platform](https://github.com/Benjamindaoson/api-test-platform) | Agent-assisted API quality and release gates | **Case Study** · cross-listed with Engineering Tools |
+| [StuckToShip](https://github.com/Benjamindaoson/stuck-to-ship) | Evidence-grounded AI engineering course tutor | **Case Study** |
+| [haole-mas](https://github.com/Benjamindaoson/haole-mas) | Multi-Agent workspace and event runtime | **Case Study** |
+| [Financial Asset QA System](https://github.com/Benjamindaoson/financial-asset-qa-system) | Deterministic financial QA and guarded synthesis | **Case Study** |
+| [ai-agent-engineering-lab](https://github.com/Benjamindaoson/ai-agent-engineering-lab) | Agent engineering curriculum and examples | **Teaching** |
 
-## Migration candidates
+## Archived historical sources
 
-These are candidates, not completed migrations.
-
-| Source repository | Proposed destination | Required check before migration |
+| Repository | Preserved destination | Status |
 | --- | --- | --- |
-| `project-collection-langchain-learning-lab` | `projects/langchain-learning-lab/` or teaching repo | Preserve useful examples and attribution; remove duplicate/vendor content |
-| `crossborder-ops-agent-python` | `projects/legacy-crossborder-agent/` or private archive | Verify whether BA Agent already preserves all unique material |
-| `data-ananlysis-demo` | `projects/legacy-data-analysis-demo/` or private archive | Compare against Enterprise Data Agent imports |
-| `project-collection-crossborder-ops-agent-python` | Private archive | Confirm it is empty or a true duplicate |
-| `project-collection-mini-claw` | Private archive or deletion candidate | Confirm empty repository and no unique history |
+| `project-collection-langchain-learning-lab` | Private reference archive, 16/16 blobs | **Archived** |
+| `crossborder-ops-agent-python` | Private reference archive, 70/70 blobs; successor: `enterprise-data-agent` | **Archived** |
+| `data-ananlysis-demo` | Private reference archive, 50/50 blobs; successor: `enterprise-data-agent` | **Archived** |
+| `project-collection-crossborder-ops-agent-python` | Verified empty, retained read-only | **Archived** |
+| `project-collection-mini-claw` | Verified effectively empty, retained read-only | **Archived** |
 
-## Migration gate
+## Maintenance rule
 
-A source repo can be archived only after:
-
-1. its default branch and full history are inventoried;
-2. unique code, docs, assets, and licenses are identified;
-3. retained material is copied with a provenance record;
-4. the destination is validated;
-5. the source README points to the canonical destination.
-
-Deletion is reserved for verified empty duplicates and requires an explicit final decision.
+Flagships stay independent. Update this index when a release, visibility change, rename, or archive changes a project's canonical status. Private repositories are described without inaccessible public links.
