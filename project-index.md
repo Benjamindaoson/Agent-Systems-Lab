@@ -1,5 +1,7 @@
 # Agent Systems Lab — Project Index
 
+> Status labels and update rules: [Governance policy](GOVERNANCE.md).
+
 ## Independent flagship repositories
 
 | Repository | Capability | Portfolio status | Hub action |
