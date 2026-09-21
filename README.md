@@ -20,10 +20,11 @@ This repository is an organizational layer: it explains the technical program, c
 | --- | --- | --- |
 | [Enterprise Data Agent](https://github.com/Benjamindaoson/enterprise-data-agent) | Flagship · independent repo | Supervisor–Executor orchestration, Semantic Layer, governed SQL, durable state, evidence verification |
 | [AI Engineering Project OS](https://github.com/Benjamindaoson/ai-engineering-project-os) | Flagship · independent repo | Long-horizon repository engineering harness, verification, recovery, evidence, and re-audit |
-| [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) | Flagship · independent repo | Production-shaped sales Agent with Hybrid RAG, business workflows, memory, evaluation, and observability |
+| [Multimodal Content Creation Agent](https://github.com/Benjamindaoson/multimodal-content-creation-agent) | Flagship · independent repo | Recoverable multimodal runtime for planning, tool orchestration, evaluation, human approval, publishing, and feedback |
 
 ## Case studies
 
+- [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) — enterprise sales Agent with Hybrid RAG, workflows, evaluation, and observability.
 - [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) — approval-gated reservation workflow with deterministic writes.
 - [API Test Platform](https://github.com/Benjamindaoson/api-test-platform) — change analysis, test generation, execution evidence, and release gates.
 - [StuckToShip](https://github.com/Benjamindaoson/stuck-to-ship) — evidence-grounded learning workflow for RAG, LangGraph, and MCP.
