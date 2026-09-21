@@ -8,12 +8,13 @@
 | --- | --- | --- | --- |
 | [enterprise-data-agent](https://github.com/Benjamindaoson/enterprise-data-agent) | Governed business-analysis Agent, Semantic Layer, tools, recovery, and evidence verification | **Flagship** | Link only; remain independent |
 | [ai-engineering-project-os](https://github.com/Benjamindaoson/ai-engineering-project-os) | Long-horizon Agent harness for repository engineering | **Flagship** | Link only; remain independent |
-| [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) | Enterprise sales Agent, RAG, workflows, and evaluation | **Flagship** | Link only; remain independent |
+| [multimodal-content-creation-agent](https://github.com/Benjamindaoson/multimodal-content-creation-agent) | Recoverable multimodal production runtime, media tools, evaluation, human approval, publishing, and feedback | **Flagship** | Link only; remain independent |
 
 ## Public case studies and teaching
 
 | Repository | Capability | Status |
 | --- | --- | --- |
+| [SalesBoost](https://github.com/Benjamindaoson/SalesBoost) | Enterprise sales Agent, Hybrid RAG, workflows, and evaluation | **Case Study** |
 | [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) | Approval-gated reservation and business-action workflow | **Case Study** |
 | [api-test-platform](https://github.com/Benjamindaoson/api-test-platform) | Agent-assisted API quality and release gates | **Case Study** · cross-listed with Engineering Tools |
 | [StuckToShip](https://github.com/Benjamindaoson/stuck-to-ship) | Evidence-grounded AI engineering course tutor | **Case Study** |
