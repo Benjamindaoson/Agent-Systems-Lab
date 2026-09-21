@@ -26,9 +26,9 @@ This repository is an organizational layer: it explains the technical program, c
 
 - [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) — approval-gated reservation workflow with deterministic writes.
 - [API Test Platform](https://github.com/Benjamindaoson/api-test-platform) — change analysis, test generation, execution evidence, and release gates.
-- [AIEduRAG](https://github.com/Benjamindaoson/AIEduRAG) — evidence-grounded learning workflow for RAG, LangGraph, and MCP.
-- [Haole](https://github.com/Benjamindaoson/haole) — event-driven multi-agent workspace with MCP and HITL.
-- [Financial Asset QA System](https://github.com/Benjamindaoson/Financial_Asset_QA_System) — deterministic financial QA pipeline with guarded synthesis.
+- [StuckToShip](https://github.com/Benjamindaoson/stuck-to-ship) — evidence-grounded learning workflow for RAG, LangGraph, and MCP.
+- [haole-mas](https://github.com/Benjamindaoson/haole-mas) — event-driven multi-agent workspace with MCP and HITL.
+- [Financial Asset QA System](https://github.com/Benjamindaoson/financial-asset-qa-system) — deterministic financial QA pipeline with guarded synthesis.
 
 See the [project index](./project-index.md) for scope, status, and migration rules.
 
