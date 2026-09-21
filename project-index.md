@@ -16,9 +16,9 @@
 | --- | --- | --- |
 | [SmartOrderingAgent](https://github.com/Benjamindaoson/SmartOrderingAgent) | Approval-gated reservation and business-action workflow | **Case Study** |
 | [api-test-platform](https://github.com/Benjamindaoson/api-test-platform) | Agent-assisted API quality and release gates | **Case Study** · cross-listed with Engineering Tools |
-| [StuckToShip](https://github.com/Benjamindaoson/stuck-to-ship) | Evidence-grounded AI engineering course tutor | **Case Study** |
-| [haole-mas](https://github.com/Benjamindaoson/haole-mas) | Multi-Agent workspace and event runtime | **Case Study** |
-| [Financial Asset QA System](https://github.com/Benjamindaoson/financial-asset-qa-system) | Deterministic financial QA and guarded synthesis | **Case Study** |
+| [StuckToShip](https://github.com/Benjamindaoson/AIEduRAG) | Evidence-grounded AI engineering course tutor | **Case Study** |
+| [haole-mas](https://github.com/Benjamindaoson/haole) | Multi-Agent workspace and event runtime | **Case Study** |
+| [Financial Asset QA System](https://github.com/Benjamindaoson/Financial_Asset_QA_System) | Deterministic financial QA and guarded synthesis | **Case Study** |
 | [ai-agent-engineering-lab](https://github.com/Benjamindaoson/ai-agent-engineering-lab) | Agent engineering curriculum and examples | **Teaching** |
 
 ## Archived historical sources
