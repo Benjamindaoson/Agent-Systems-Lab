@@ -70,3 +70,8 @@ Projects linked from this Hub distinguish:
 ## Status
 
 The Hub structure and project index are active. Demo consolidation is handled as a separate migration phase.
+
+
+## Governance
+
+This Hub follows the shared status taxonomy, link-only policy, private-research boundary, and release/archive synchronization checklist in [GOVERNANCE.md](GOVERNANCE.md).
